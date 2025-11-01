@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋.+I'm+Kai;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋.+I'm+isakov;" />
 </h1>
 
 ## **Dedicated Software Developer** passionate about building robust and efficient systems that support growth and innovation. I specialize in solving technical challenges with clean, maintainable code, striving to create seamless experiences that drive success for teams and users alike.
