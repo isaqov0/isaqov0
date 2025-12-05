@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,php,ts,react,nextjs,laravel,livewire,tailwind,git,npm,pnpm" />
-    <img src="https://skillicons.dev/icons?i=github,nodejs,mysql,firebase,postman" />
+    <img src="https://skillicons.dev/icons?i=github,nodejs,mysql,firebase,postman,figma" />
     <img src="https://skillicons.dev/icons?i=vscode,phpstorm,cursor" />
 </div>
 
